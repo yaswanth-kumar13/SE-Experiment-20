@@ -14,3 +14,5 @@ to GitHub using Git commands.
 - Visual Studio Code
 ## Collaborator Update - Experiment 23
 This change was made by a collaborator and pushed to GitHub.
+## Experiment 21 Update
+This repository was cloned locally and edited using Visual Studio Code.
